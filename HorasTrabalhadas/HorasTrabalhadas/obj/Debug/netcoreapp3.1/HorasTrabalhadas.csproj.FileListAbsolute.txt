@@ -1,0 +1,13 @@
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\netcoreapp3.1\HorasTrabalhadas.exe
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\netcoreapp3.1\HorasTrabalhadas.deps.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\netcoreapp3.1\HorasTrabalhadas.runtimeconfig.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\netcoreapp3.1\HorasTrabalhadas.runtimeconfig.dev.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\netcoreapp3.1\HorasTrabalhadas.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\netcoreapp3.1\HorasTrabalhadas.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\netcoreapp3.1\HorasTrabalhadas.genruntimeconfig.cache
