@@ -1,0 +1,13 @@
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.exe
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.deps.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.dev.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.genruntimeconfig.cache
