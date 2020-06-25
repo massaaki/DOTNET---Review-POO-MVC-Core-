@@ -1,0 +1,13 @@
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.exe
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.deps.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.runtimeconfig.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.runtimeconfig.dev.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.genruntimeconfig.cache
