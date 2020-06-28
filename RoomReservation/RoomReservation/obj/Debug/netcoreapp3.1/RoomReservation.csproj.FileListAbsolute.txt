@@ -1,0 +1,13 @@
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\bin\Debug\netcoreapp3.1\RoomReservation.exe
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\bin\Debug\netcoreapp3.1\RoomReservation.deps.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\bin\Debug\netcoreapp3.1\RoomReservation.runtimeconfig.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\bin\Debug\netcoreapp3.1\RoomReservation.runtimeconfig.dev.json
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\bin\Debug\netcoreapp3.1\RoomReservation.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\bin\Debug\netcoreapp3.1\RoomReservation.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.dll
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.pdb
+C:\Users\mauri\OneDrive\Desktop\MEUS ESTUDOS\DOTNET\workspace-vs-2019\RoomReservation\RoomReservation\obj\Debug\netcoreapp3.1\RoomReservation.genruntimeconfig.cache
